@@ -84,4 +84,4 @@ onto-phraseology project:
 ## Author
 
 Lian CHEN 陈恋
-CRLAO (CNRS – INALCO) & LLL (University of Orléans)
+LLL (University of Orléans) & CRLAO (CNRS – INALCO) 
